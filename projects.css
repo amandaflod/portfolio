@@ -4,17 +4,6 @@
   text-align: center;
 }
 
-.projects-section .title {
-  color: white;
-  padding: 10px;
-  display: inline-block;
-  background-color: #800080; 
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 900;
-  color: white;
-  font-size: 28px;
-}
-
 .projects-section .featured-container {
   max-width: 1200px;
   display: flex;
@@ -45,11 +34,6 @@
   width: 100%;
   height: 190px;
   object-fit: cover;
-}
-
-.projects-section .bold {
-  font-weight: 700px;
-  color: #800080;
 }
 
 .projects-section .text {

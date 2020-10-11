@@ -1,28 +1,28 @@
-.intro {
+.intro-section {
   background-color: #ededed;
   padding: 80px 20%;
 }
 
-.intro .text {
+.intro-section .text {
  font-size: 16px;
  line-height: 1.5em;
 }
 
-.intro .shape-container {
+.intro-section .shape-container {
   display: inline-flex;
   align-items: center;
   vertical-align: middle;
   margin-bottom: 2px;
 }
 
-.intro .cylinder {
+.intro-section .cylinder {
   width: 40px;
   height: 2px;
   margin-right: -1px;
   background: #800080;
 }
 
-.intro .circle {
+.intro-section .circle {
   width: 12px;
   height: 12px;
   background: #800080;
