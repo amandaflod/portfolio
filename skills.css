@@ -1,0 +1,35 @@
+.skills-section {
+  padding: 80px 20%;
+  text-align: center;
+}
+
+.skills-section .title {
+  color: white;
+  padding: 10px;
+  display: inline-block;
+  background-color: #800080; 
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  color: white;
+  font-size: 28px;
+}
+
+.skills-section .skill-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.skills-section .list {
+  list-style: none;
+  width: 150px;
+  margin: 20px;
+  padding: 0;
+}
+
+.skills-section .bold {
+  font-weight: 700;
+  color: #800080;
+}

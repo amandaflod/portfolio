@@ -5,6 +5,7 @@
 
 .intro .text {
  font-size: 16px;
+ line-height: 1.5em;
 }
 
 .intro .shape-container {
@@ -18,12 +19,12 @@
   width: 40px;
   height: 2px;
   margin-right: -1px;
-  background: #FF0202;
+  background: #800080;
 }
 
 .intro .circle {
   width: 12px;
   height: 12px;
-  background: #FF0202;
+  background: #800080;
   border-radius: 50%;
 }
